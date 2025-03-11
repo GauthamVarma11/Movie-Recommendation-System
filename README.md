@@ -9,7 +9,9 @@ Recommendation systems play a vital role in platforms like Netflix, Amazon Prime
 ✔ User-Based Collaborative Filtering (UBCF) – Recommends movies based on user similarities.
 
 ✔ Item-Based Collaborative Filtering (IBCF) – Suggests movies similar to those a user has liked.
+
 ✔ Content-Based Filtering – Matches movies with similar genres and metadata.
+
 ✔ Hybrid Recommendation System – Combines multiple techniques for improved accuracy.
 
 # 2️⃣ Interactive Streamlit Web App
