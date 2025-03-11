@@ -5,8 +5,9 @@ A hybrid recommendation system using collaborative filtering, content-based filt
 Recommendation systems play a vital role in platforms like Netflix, Amazon Prime, and YouTube by personalizing user experiences. This project combines user-based collaborative filtering, item-based filtering, and content-based approaches to predict movies users might enjoy.
 
 # ✨ Features
-#1️⃣ Advanced Recommendation Algorithms
+# 1️⃣ Advanced Recommendation Algorithms
 ✔ User-Based Collaborative Filtering (UBCF) – Recommends movies based on user similarities.
+
 ✔ Item-Based Collaborative Filtering (IBCF) – Suggests movies similar to those a user has liked.
 ✔ Content-Based Filtering – Matches movies with similar genres and metadata.
 ✔ Hybrid Recommendation System – Combines multiple techniques for improved accuracy.
