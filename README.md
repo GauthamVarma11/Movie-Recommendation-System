@@ -21,11 +21,11 @@ Recommendation systems play a vital role in platforms like Netflix, Amazon Prime
 
 ✔ Option to export recommendations as CSV files for offline analysis.
 
-# 📊 Dataset Information
-# 📌 Source
+## 📊 Dataset Information
+## 📌 Source
 The dataset is sourced from the UCI Machine Learning Repository, containing anonymized user demographics, ratings, and movie metadata.
 
-# 📁 Dataset Structure
+## 📁 Dataset Structure
 Feature	Description
 user_id	Unique identifier for users
 movie_id	Unique identifier for movies
@@ -35,13 +35,13 @@ genres	Movie genres
 title	Movie title
 
 
-# ⚙️ Setup Instructions
-# 1️⃣ Prerequisites
+## ⚙️ Setup Instructions
+## 1️⃣ Prerequisites
 📌 Install Python (>=3.7) and R (>=4.3.3)
 
-# 2️⃣ Install Python Dependencies
+## 2️⃣ Install Python Dependencies
 pip install streamlit pandas
-# 3️⃣ Install R Libraries
+## 3️⃣ Install R Libraries
 install.packages(c("recommenderlab", "dplyr", "reshape2", "proxy"))
-# 4️⃣ Run the Application
+## 4️⃣ Run the Application
 streamlit run index.py
