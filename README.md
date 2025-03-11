@@ -16,7 +16,9 @@ Recommendation systems play a vital role in platforms like Netflix, Amazon Prime
 
 # 2️⃣ Interactive Streamlit Web App
 ✔ User-friendly UI for selecting algorithms, entering movie names, and adjusting recommendation settings.
+
 ✔ Real-time results displayed directly in the app.
+
 ✔ Option to export recommendations as CSV files for offline analysis.
 
 # 📊 Dataset Information
